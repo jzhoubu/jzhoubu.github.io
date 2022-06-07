@@ -14,7 +14,7 @@ layout: default
 
 
 # Education
-<table width="100%" align="center" border="0" cellspacing="0" frame=void rules=none cols=none>
+<table width="100%" align="center" border="0" cellspacing="0" frame=void rules=none>
   <tbody><tr>
     <td width="80%"> Sun Yat-sen University, China <br>
          Sept. 2013 - Jun. 2017 <br>
@@ -39,13 +39,13 @@ layout: default
 </tbody></table>
 
 # Experience
-<table width="100%" align="center" border="0" cellspacing="0" frame=void rules=none cols=none>
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="0" frame=void rules=none>
   <tbody><tr>
     <td width="80%"> Dec. 2019 - June. 2020 <br>
          Research Intern, Microsoft Research Asia (MSRA), Beijing </td>
     <td width="20%"> <img src="images/ms.png" height=70px style="display: block; margin-left: auto; margin-right: auto;"> </td>
   </tr> 
-  <tr>
+  <tr border="0">
     <td width="80%"> Feb. 2021 - Aug. 2022 <br>
          Research Intern, Huawei 2012 Lab, Hong Kong </td>
     <td width="20%"> <img src="images/huawei.png" height=70px style="display: block; margin-left: auto; margin-right: auto;"> </td>
