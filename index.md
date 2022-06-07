@@ -19,7 +19,7 @@ layout: default
     <td width="80%"> Sun Yat-sen University, China <br>
          Sept. 2013 - Jun. 2017 <br>
          B.S. in Statistics, Mathematics Department</td>
-    <td width="20%"> <img src="images/sysu.png"  alt="1" height = 70px style="display: block; margin-left: auto; margin-right: auto;"> </td>
+    <td width="20%"> <img src="images/sysu.png"  alt="1" height="80%" style="display: block; margin-left: auto; margin-right: auto;"> </td>
    </tr> 
    <tr>
     <td width="80%"> Hong Kong University of Science and Technology, Hong Kong <br>
@@ -30,7 +30,8 @@ layout: default
    <tr>
     <td width="80%"> Hong Kong University of Science and Technology, Hong Kong <br>
          Sept. 2019 - Present <br>
-         Ph.D. in Computer Science and Engineering Department</td>
+         Ph.D. in Computer Science and Engineering Department <br>
+         Advisor: Prof. <a href="http://home.cse.ust.hk/~leichen/">Lei Chen</a> </td>
     <td width="20%"> <img src="images/hkust.png"  alt="1" height = 70px style="display: block; margin-left: auto; margin-right: auto;"> </td>
   </tr>
 
