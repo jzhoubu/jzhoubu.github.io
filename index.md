@@ -19,11 +19,13 @@ layout: default
     <td> Sept. 2013 - Jun. 2017 <br>
          Sun Yat-sen University, China <br>
          B.S. in Statistics, Mathematics Department</td>
-    <td> <img src="images/sysu.png"  alt="1" width = 100px height = 100px > </td>
+    <td> <img src="images/sysu.png"  alt="1" width = 70px height = 70px > </td>
    </tr> 
    <tr>
-      <td> image3 </td>
-      <td> image4 </td>
+    <td> Sept. 2018 - Jun. 2019 <br>
+         Hong Kong University of Science and Technology, Hong Kong <br>
+         M.S. in Big Data Technology, Computer Science and Engineering Department</td>
+    <td> <img src="images/hkust.png"  alt="1" width = 70px height = 70px > </td>
   </tr>
 </table>
 
