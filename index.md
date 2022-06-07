@@ -15,19 +15,28 @@ layout: default
 
 # Education
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="0" frame=void rules=none>
-  <tbody><tr>
-    <td width="80%" border="1"> Sun Yat-sen University, China <br>
-         Sept. 2013 - Jun. 2017 <br>
-         B.S. in Statistics, Mathematics Department</td>
-    <td width="20%"> <img src="images/sysu.png" height=70px style="display: block; margin-left: auto; margin-right: auto;"> </td>
-   </tr> 
-   <tr>
-    <td width="80%" border="0"> Hong Kong University of Science and Technology, Hong Kong <br>
-         Sept. 2018 - Jun. 2019 <br>
-         M.S. in Big Data Technology, Computer Science and Engineering Department</td>
-    <td width="20%"> <img src="images/hkust.png" height=70px style="display: block; margin-left: auto; margin-right: auto;"> </td>
+  <tbody>
+  <tr>
+    <td width="80%"> 
+        Sun Yat-sen University, China <br>
+        Sept. 2013 - Jun. 2017 <br>
+        B.S. in Statistics, Mathematics Department</td>
+    <td width="20%">
+        <img src="images/sysu.png" height=70px style="display: block; margin-left: auto; margin-right: auto;"> 
+    </td>
   </tr>
-   <tr>
+
+  <tr>
+    <td width="80%"> 
+        Hong Kong University of Science and Technology, Hong Kong <br>
+        Sept. 2018 - Jun. 2019 <br>
+        M.S. in Big Data Technology, Computer Science and Engineering Department</td>
+    <td width="20%"> 
+        <img src="images/hkust.png" height=70px style="display: block; margin-left: auto; margin-right: auto;"> 
+    </td>
+  </tr>
+  
+  <tr>
     <td width="80%"> Hong Kong University of Science and Technology, Hong Kong <br>
          Sept. 2019 - Present <br>
          Ph.D. in Computer Science and Engineering Department <br>
