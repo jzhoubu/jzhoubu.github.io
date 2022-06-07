@@ -19,13 +19,13 @@ layout: default
     <td> Sun Yat-sen University, China <br>
          Sept. 2013 - Jun. 2017 <br>
          B.S. in Statistics, Mathematics Department</td>
-    <td> <img src="images/sysu.png"  alt="1" width = 70px height = 70px > </td>
+    <td> <img src="images/sysu.png"  alt="1" height = 70px > </td>
    </tr> 
    <tr>
     <td> Hong Kong University of Science and Technology, Hong Kong <br>
          Sept. 2018 - Jun. 2019 <br>
          M.S. in Big Data Technology, Computer Science and Engineering Department</td>
-    <td> <img src="images/hkust.png"  alt="1" > </td>
+    <td> <img src="images/hkust.png"  alt="1" height = 70px> </td>
   </tr>
 </table>
 
@@ -34,17 +34,17 @@ layout: default
   <tr>
     <td> Dec. 2019 - June. 2020 <br>
          Research Intern, Microsoft Research Asia (MSRA), Beijing <br>
-    <td> <img src="images/ms.png"  alt="1" width = 70px height = 70px > </td>
+    <td> <img src="images/ms.png"  alt="1" height = 70px > </td>
   </tr> 
   <tr>
     <td> Feb. 2021 - Aug. 2022 <br>
          Research Intern, Huawei 2012 Lab, Hong Kong <br>
-    <td> <img src="images/huawei.png"  alt="1" > </td>
+    <td> <img src="images/huawei.png"  alt="1" height = 70px> </td>
   </tr>
   <tr>
     <td> Feb. 2022 - Present <br>
          Research Intern, Huawei 2012 Lab, Hong Kong <br>
-    <td> <img src="images/huawei.png"  alt="1" width = 70px height = 70px > </td>
+    <td> <img src="images/huawei.png"  alt="1" height = 70px > </td>
   </tr>
 </table>
 
