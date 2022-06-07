@@ -15,7 +15,7 @@ layout: default
 
 # Education
 <table>
-  <tr>
+  <tbody><tr>
     <td> Sun Yat-sen University, China <br>
          Sept. 2013 - Jun. 2017 <br>
          B.S. in Statistics, Mathematics Department</td>
@@ -27,26 +27,27 @@ layout: default
          M.S. in Big Data Technology, Computer Science and Engineering Department</td>
     <td> <img src="images/hkust.png"  alt="1" height = 70px style="display: block; margin-left: auto; margin-right: auto;"> </td>
   </tr>
-</table>
+</tbody></table>
 
 # Experience
 <table>
-  <tr>
+  <tbody><tr>
     <td> Dec. 2019 - June. 2020 <br>
-         Research Intern, Microsoft Research Asia (MSRA), Beijing <br>
+         Research Intern, Microsoft Research Asia (MSRA), Beijing </td>
     <td> <img src="images/ms.png"  alt="1" height = 70px style="display: block; margin-left: auto; margin-right: auto;"> </td>
   </tr> 
   <tr>
     <td> Feb. 2021 - Aug. 2022 <br>
-         Research Intern, Huawei 2012 Lab, Hong Kong <br>
+         Research Intern, Huawei 2012 Lab, Hong Kong </td>
     <td> <img src="images/huawei.png"  alt="1" height = 70px style="display: block; margin-left: auto; margin-right: auto;"> </td>
   </tr>
   <tr>
     <td> Feb. 2022 - Present <br>
-         Research Intern, Huawei 2012 Lab, Hong Kong <br>
+         Research Intern, Huawei 2012 Lab, Hong Kong </td>
     <td> <img src="images/huawei.png"  alt="1" height = 70px style="display: block; margin-left: auto; margin-right: auto;" > </td>
   </tr>
-</table>
+</tbody></table>
+
 
 
 
