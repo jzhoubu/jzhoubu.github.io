@@ -14,7 +14,7 @@ layout: default
 
 
 # Education
-<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" frame=void>
   <tbody><tr>
     <td width="90%"> Sun Yat-sen University, China <br>
          Sept. 2013 - Jun. 2017 <br>
@@ -38,7 +38,7 @@ layout: default
 </tbody></table>
 
 # Experience
-<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+<table width="100%" align="center" border="0" cellspacing="0" frame=void>
   <tbody><tr>
     <td width="90%"> Dec. 2019 - June. 2020 <br>
          Research Intern, Microsoft Research Asia (MSRA), Beijing </td>
