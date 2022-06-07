@@ -14,46 +14,46 @@ layout: default
 
 
 # Education
-<table width="100%" align="center" border="0" cellspacing="0" frame=void rules=none>
+<table width="100%" align="center" border="0" cellspacing="0" frame=void rules=none cols=none>
   <tbody><tr>
     <td width="80%"> Sun Yat-sen University, China <br>
          Sept. 2013 - Jun. 2017 <br>
          B.S. in Statistics, Mathematics Department</td>
-    <td width="20%"> <img src="images/sysu.png"  alt="1" height="80%" style="display: block; margin-left: auto; margin-right: auto;"> </td>
+    <td width="20%"> <img src="images/sysu.png" height=70px style="display: block; margin-left: auto; margin-right: auto;"> </td>
    </tr> 
    <tr>
     <td width="80%"> Hong Kong University of Science and Technology, Hong Kong <br>
          Sept. 2018 - Jun. 2019 <br>
          M.S. in Big Data Technology, Computer Science and Engineering Department</td>
-    <td width="20%"> <img src="images/hkust.png"  alt="1" height = 70px style="display: block; margin-left: auto; margin-right: auto;"> </td>
+    <td width="20%"> <img src="images/hkust.png" height=70px style="display: block; margin-left: auto; margin-right: auto;"> </td>
   </tr>
    <tr>
     <td width="80%"> Hong Kong University of Science and Technology, Hong Kong <br>
          Sept. 2019 - Present <br>
          Ph.D. in Computer Science and Engineering Department <br>
          Advisor: Prof. <a href="http://home.cse.ust.hk/~leichen/">Lei Chen</a> </td>
-    <td width="20%"> <img src="images/hkust.png"  alt="1" height = 70px style="display: block; margin-left: auto; margin-right: auto;"> </td>
+    <td width="20%"> <img src="images/hkust.png" height=70px style="display: block; margin-left: auto; margin-right: auto;"> </td>
   </tr>
 
 
 </tbody></table>
 
 # Experience
-<table width="100%" align="center" border="0" cellspacing="0" frame=void rules=none>
+<table width="100%" align="center" border="0" cellspacing="0" frame=void rules=none cols=none>
   <tbody><tr>
     <td width="80%"> Dec. 2019 - June. 2020 <br>
          Research Intern, Microsoft Research Asia (MSRA), Beijing </td>
-    <td width="20%"> <img src="images/ms.png"  alt="1" height = 70px style="display: block; margin-left: auto; margin-right: auto;"> </td>
+    <td width="20%"> <img src="images/ms.png" height=70px style="display: block; margin-left: auto; margin-right: auto;"> </td>
   </tr> 
   <tr>
     <td width="80%"> Feb. 2021 - Aug. 2022 <br>
          Research Intern, Huawei 2012 Lab, Hong Kong </td>
-    <td width="20%"> <img src="images/huawei.png"  alt="1" height = 70px style="display: block; margin-left: auto; margin-right: auto;"> </td>
+    <td width="20%"> <img src="images/huawei.png" height=70px style="display: block; margin-left: auto; margin-right: auto;"> </td>
   </tr>
   <tr>
     <td width="80%"> Feb. 2022 - Present <br>
          Research Intern, Huawei 2012 Lab, Hong Kong </td>
-    <td width="20%"> <img src="images/huawei.png"  alt="1" height = 70px style="display: block; margin-left: auto; margin-right: auto;" > </td>
+    <td width="20%"> <img src="images/huawei.png" height=70px style="display: block; margin-left: auto; margin-right: auto;" > </td>
   </tr>
 </tbody></table>
 
