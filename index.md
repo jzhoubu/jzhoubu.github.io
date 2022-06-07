@@ -12,7 +12,7 @@ layout: default
 
 📭 If you have any questions to discuss or interests in collaboration, please feel free to reach out!
 
-
+<!--
 # Education
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="0" frame=void rules=none>
   <tbody>
@@ -65,7 +65,7 @@ layout: default
     <td width="20%"> <img src="images/huawei.png" height=70px style="display: block; margin-left: auto; margin-right: auto;" > </td>
   </tr>
 </tbody></table>
-
+-->
 
 
 
