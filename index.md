@@ -15,7 +15,7 @@ layout: default
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="0" frame=void rules=none>
   <tbody>
   <tr>
-    <td width="10%">
+    <td width="10%" valign="top">
     B.S. </td>
     <td width="70%">
         Sept. 2013 - Jun. 2017 <br>
@@ -27,8 +27,8 @@ layout: default
   </tr>
 
   <tr>
-    <td width="10%">
-    B.S. </td>
+    <td width="10%" valign="top">
+    M.Sc. </td>
     <td width="70%"> 
         Sept. 2018 - Jun. 2019 <br>
         Hong Kong University of Science and Technology, Hong Kong <br>
@@ -39,8 +39,8 @@ layout: default
   </tr>
   
   <tr>
-    <td width="10%">
-    B.S. </td>
+    <td width="10%" valign="top">
+    Ph.D. </td>
     <td width="70%"> 
         Sept. 2019 - Present <br>
         Hong Kong University of Science and Technology, Hong Kong <br>
