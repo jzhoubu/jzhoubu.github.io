@@ -27,7 +27,9 @@ layout: default
   </tr>
 
   <tr>
-    <td width="80%"> 
+    <td width="10%">
+    B.S. </td>
+    <td width="70%"> 
         Sept. 2018 - Jun. 2019 <br>
         Hong Kong University of Science and Technology, Hong Kong <br>
         M.S. in Big Data Technology, Computer Science and Engineering Department</td>
@@ -37,7 +39,9 @@ layout: default
   </tr>
   
   <tr>
-    <td width="80%"> 
+    <td width="10%">
+    B.S. </td>
+    <td width="70%"> 
         Sept. 2019 - Present <br>
         Hong Kong University of Science and Technology, Hong Kong <br>
         Ph.D. in Computer Science and Engineering Department <br>
