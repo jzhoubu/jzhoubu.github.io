@@ -15,7 +15,9 @@ layout: default
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="0" frame=void rules=none>
   <tbody>
   <tr>
-    <td width="80%">
+    <td width="10%">
+    B.S.
+    <td width="70%">
         Sept. 2013 - Jun. 2017 <br>
         Sun Yat-sen University, China <br>
         B.S. in Statistics, Mathematics Department</td>
