@@ -16,7 +16,7 @@ layout: default
   <tbody>
   <tr>
     <td width="10%">
-    B.S.
+    B.S. </td>
     <td width="70%">
         Sept. 2013 - Jun. 2017 <br>
         Sun Yat-sen University, China <br>
