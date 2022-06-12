@@ -22,7 +22,7 @@ layout: default
         Sun Yat-sen University, China <br>
         B.S. in Statistics, Mathematics Department</td>
     <td width="20%">
-        <img src="images/sysu.png" height=70px style="display: block; margin-left: auto; margin-right: auto;"> 
+        <img src="images/sysu.png" height=60px style="display: block; margin-left: auto; margin-right: auto;"> 
     </td>
   </tr>
 
@@ -32,7 +32,7 @@ layout: default
         Hong Kong University of Science and Technology, Hong Kong <br>
         M.S. in Big Data Technology, Computer Science and Engineering Department</td>
     <td width="20%"> 
-        <img src="images/hkust.png" height=70px style="display: block; margin-left: auto; margin-right: auto;"> 
+        <img src="images/hkust.png" height=60px style="display: block; margin-left: auto; margin-right: auto;"> 
     </td>
   </tr>
   
@@ -42,7 +42,7 @@ layout: default
         Hong Kong University of Science and Technology, Hong Kong <br>
         Ph.D. in Computer Science and Engineering Department <br>
         Advisor: Prof. <a href="http://home.cse.ust.hk/~leichen/">Lei Chen</a> </td>
-    <td width="20%"> <img src="images/hkust.png" height=70px style="display: block; margin-left: auto; margin-right: auto;"> </td>
+    <td width="20%"> <img src="images/hkust.png" height=60px style="display: block; margin-left: auto; margin-right: auto;"> </td>
   </tr>
 
 
@@ -55,21 +55,21 @@ layout: default
         Dec. 2019 - June. 2020 <br>
         Microsoft Research Asia (MSRA), Beijing <br>
         Research Intern </td>
-    <td width="20%"> <img src="images/ms.png" height=70px style="display: block; margin-left: auto; margin-right: auto;"> </td>
+    <td width="20%"> <img src="images/ms.png" height=60px style="display: block; margin-left: auto; margin-right: auto;"> </td>
   </tr> 
   <tr>
     <td width="80%"> 
         Feb. 2021 - Aug. 2022 <br>
         Huawei 2012 Lab, Hong Kong <br>
         Research Intern </td>
-    <td width="20%"> <img src="images/huawei.png" height=70px style="display: block; margin-left: auto; margin-right: auto;"> </td>
+    <td width="20%"> <img src="images/huawei.png" height=60px style="display: block; margin-left: auto; margin-right: auto;"> </td>
   </tr>
   <tr>
     <td width="80%"> 
         Feb. 2022 - Present <br>
         Huawei 2012 Lab, Hong Kong <br>
         Research Intern </td>
-    <td width="20%"> <img src="images/huawei.png" height=70px style="display: block; margin-left: auto; margin-right: auto;" > </td>
+    <td width="20%"> <img src="images/huawei.png" height=60px style="display: block; margin-left: auto; margin-right: auto;" > </td>
   </tr>
 </tbody></table>
 
