@@ -2,8 +2,9 @@
 layout: default
 ---
 # About Me
-📖 I am a third-year Ph.D. student at the Hong Kong University of Science and Technology (HKUST), advised by Prof. Lei Chen. I have previously interned at Microsoft Research Asi (in 2020) and Huawei 2012 Lab (in 2021). Prior to HKUST, I received B.S. in mathematics from Sun Yat-sen University. <br>
-💡 My research interests lie in the area of natural language processing and self-supervised learning. Additionally, I am fascinated by the concepts of collective consciousness and human-in-the-loop, which have inspired my research. <br>
+📖 I am a third-year Ph.D. student at the Hong Kong University of Science and Technology (HKUST), advised by Prof. Lei Chen. I have previously interned at Microsoft Research Asi (in 2020) and Huawei 2012 Lab (in 2021). Prior to HKUST, I received B.S. in mathematics from Sun Yat-sen University.
+
+💡 My research interests lie in the area of natural language processing and self-supervised learning. Additionally, I am fascinated by the concepts of collective consciousness and human-in-the-loop, which have inspired my research.
 
 ❤️ Besides research, I also like swimming 🏊‍♂️, board games 👾, and cocktails 🍹.
 
