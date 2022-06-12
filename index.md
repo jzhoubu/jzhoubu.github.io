@@ -12,7 +12,7 @@ layout: default
 
 📭 If you have any questions to discuss or interests in collaboration, please feel free to reach out!
 
-<!--
+
 # Education
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="0" frame=void rules=none>
   <tbody>
@@ -65,44 +65,10 @@ layout: default
     <td width="20%"> <img src="images/huawei.png" height=70px style="display: block; margin-left: auto; margin-right: auto;" > </td>
   </tr>
 </tbody></table>
--->
 
 
 
-<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
-<tbody><tr>
-  <!-- <td width="100%" valign="middle"> -->
-  <h3>Education</h3>
-  <table>
-    <tbody><tr>
-      <td width="90%">
-        <br>
-        <strong>Ph.D.</strong> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Sept. 2021 - Present  <br> 
-        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &nbsp &nbsp&nbsp &nbsp &nbsp &nbsp&nbsp&nbsp The Hong Kong University of Science and Technology (HKUST), HKSAR<br>
-        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &nbsp &nbsp&nbsp &nbsp &nbsp &nbsp&nbsp&nbsp Ph.D. student in Computer Science
-        <br> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &nbsp &nbsp&nbsp &nbsp &nbsp &nbsp&nbsp&nbsp Advisor: Prof. <a href="http://tongzhang-ml.org/">Tong Zhang</a><br>
-      </td>
-      <td width="10%">
-      <img src="figures/hkust.png" width="50%" style="display: block; margin-left: auto; margin-right: auto;">
-      </td>
-    </tr>
-    <tr>
-    <td width="90%">
-      <br>
-      <strong> B.S. </strong> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Sept. 2015 - Jun. 2019 <br>
-      &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &nbsp &nbsp&nbsp &nbsp &nbsp &nbsp&nbsp&nbsp Beijing Normal University (BNU), China<br>
-      &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &nbsp &nbsp&nbsp &nbsp &nbsp &nbsp&nbsp&nbsp  B.S. in Computer Science and Technology<br> 
-    </td>
-    <td width="10%">
-      <img src="figures/bnu.jpeg" width="90%" style="display: block; margin-left: auto; margin-right: auto;">
-    </td>
-    </tr>
-    <tr>
-    </tr>
-  </tbody></table>
-  <!-- </td> -->
-</tr>
-</tbody></table>
+
 
 
 
