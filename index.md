@@ -2,7 +2,7 @@
 layout: default
 ---
 # About Me
-📖 I am a third-year Ph.D. student at the Hong Kong University of Science and Technology (HKUST), advised by Prof. Lei Chen. I have previously interned at Microsoft Research Asi (in 2020) and Huawei 2012 Lab (in 2021). Prior to HKUST, I received B.S. in mathematics from Sun Yat-sen University.
+📖 I am a third-year Ph.D. student at the Hong Kong University of Science and Technology (HKUST), advised by Prof. Lei Chen. I have previously interned at Microsoft Research Asia (in 2020) and Huawei 2012 Lab (in 2021). Prior to HKUST, I received B.S. in mathematics from Sun Yat-sen University.
 
 💡 My research interests lie in the area of natural language processing and self-supervised learning. Additionally, I am fascinated by the concepts of collective consciousness and human-in-the-loop, which have inspired my research.
 
@@ -56,23 +56,23 @@ layout: default
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="0" frame=void rules=none>
   <tbody><tr>
     <td width="80%"> 
-        Dec. 2019 - June. 2020 <br>
-        Microsoft Research Asia (MSRA), Beijing <br>
-        Research Intern </td>
+        Dec. 2019 - Jun. 2020 <br>
+        Research Intern, Microsoft Research Asia (MSRA), Beijing <br>
+        Pre-trained Language Models </td>
     <td width="20%"> <img src="images/ms.png" height=60px style="display: block; margin-left: auto; margin-right: auto;"> </td>
   </tr> 
   <tr>
     <td width="80%"> 
         Feb. 2021 - Aug. 2022 <br>
-        Huawei 2012 Lab, Hong Kong <br>
-        Research Intern </td>
+        Research Intern, Huawei 2012 Lab, Hong Kong <br>
+        Open-domain Question Answering </td>
     <td width="20%"> <img src="images/huawei.png" height=60px style="display: block; margin-left: auto; margin-right: auto;"> </td>
   </tr>
   <tr>
     <td width="80%"> 
         Feb. 2022 - Present <br>
-        Huawei 2012 Lab, Hong Kong <br>
-        Research Intern </td>
+        Research Intern, Huawei 2012 Lab, Hong Kong <br>
+        Disentangled & Multimodal Representation Learning </td>
     <td width="20%"> <img src="images/huawei.png" height=60px style="display: block; margin-left: auto; margin-right: auto;" > </td>
   </tr>
 </tbody></table>
