@@ -68,15 +68,7 @@ layout: default
         Open-domain Question Answering </td>
     <td width="20%"> <img src="images/huawei.png" height=60px style="display: block; margin-left: auto; margin-right: auto;"> </td>
   </tr>
-  <tr>
-    <td width="80%"> 
-        Feb. 2022 - Present <br>
-        Research Intern, Huawei 2012 Lab, Hong Kong <br>
-        Disentangled & Multimodal Representation Learning </td>
-    <td width="20%"> <img src="images/huawei.png" height=60px style="display: block; margin-left: auto; margin-right: auto;" > </td>
-  </tr>
 </tbody></table>
-
 
 
 
@@ -84,7 +76,6 @@ layout: default
 # Publications
 **[Hyperlink-induced Pre-training for Passage Retrieval in Open-domain Question Answering](https://arxiv.org/abs/2203.06942)**<br>
 **Jiawei Zhou**, Xiaoguang Li, Lifeng Shang, Lan Luo, Ke Zhan, Enrui Hu, Xinyu Zhang, Hao Jiang, Zhao Cao, Fan Yu, Xin Jiang, Qun Liu, Lei Chen. ACL, 2022. <br>
-Ratings: 3.5/4/4/4/4 out of 5. <br>
 [<img src="https://img.shields.io/badge/-paper-brightgreen??style=flat-square"  alt="1">](https://arxiv.org/abs/2203.06942)
 [<img src="https://img.shields.io/badge/-slide-red??style=flat-square"  alt="1">](https://github.com/jzhoubu/HLP)
 [<img src="https://img.shields.io/badge/-code-blue??style=flat-square"  alt="1">](https://github.com/jzhoubu/HLP)
