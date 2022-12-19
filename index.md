@@ -2,11 +2,10 @@
 layout: default
 ---
 # About Me
-📖 I am a third-year Ph.D. student at the Hong Kong University of Science and Technology (HKUST), advised by Prof. Lei Chen. I have previously interned at Microsoft Research Asia (in 2020) and Huawei 2012 Lab (in 2021). Prior to HKUST, I received B.S. in mathematics from Sun Yat-sen University.
+📖 I am a third-year Ph.D. student at the Hong Kong University of Science and Technology (HKUST), advised by Prof. Lei Chen. I have previously interned at Microsoft Research Asia (in 2020) and Huawei Noah's Ark Lab (in 2022). Prior to HKUST, I received B.S. in mathematics from Sun Yat-sen University.
 
-💡 My research interests lie in the area of natural language processing and self-supervised learning. Additionally, I am fascinated by the concepts of collective consciousness and human-in-the-loop, which have inspired my research.
+💡 My research interests are in the area of natural language processing and self-supervised learning. Specifically, I focus on extracting effective supervision signals from naturally occurring data sources, and applying them to tasks with real-world potential. I strive to create ~~SOTA~~ simple and effective solutions and aim to produce ~~publishable~~ memorable research
 
-❤️ Besides research, I also like swimming 🏊‍♂️, board games 👾, and cocktails 🍹.
 
 📭 If you have any questions to discuss or interests in collaboration, please feel free to reach out!
 
@@ -65,7 +64,7 @@ layout: default
     <td width="80%"> 
         Feb. 2021 - Aug. 2022 <br>
         Research Intern, Huawei 2012 Lab, Hong Kong <br>
-        Open-domain Question Answering </td>
+        Open-domain Question Answering / Multimodal Representation Learning </td>
     <td width="20%"> <img src="images/huawei.png" height=60px style="display: block; margin-left: auto; margin-right: auto;"> </td>
   </tr>
 </tbody></table>
@@ -79,4 +78,8 @@ layout: default
 [<img src="https://img.shields.io/badge/-paper-brightgreen??style=flat-square"  alt="1">](https://arxiv.org/abs/2203.06942)
 [<img src="https://img.shields.io/badge/-slide-red??style=flat-square"  alt="1">](https://github.com/jzhoubu/HLP)
 [<img src="https://img.shields.io/badge/-code-blue??style=flat-square"  alt="1">](https://github.com/jzhoubu/HLP)
+
+**[Retrieval-based Disentanglement with Distant Supervision](https://arxiv.org/pdf/2212.07699.pdf)**<br>
+**Jiawei Zhou**, Xiaoguang Li, Lifeng Shang, Xin Jiang, Qun Liu, Lei Chen. Preprint. <br>
+[<img src="https://img.shields.io/badge/-paper-brightgreen??style=flat-square"  alt="1">](https://arxiv.org/abs/2212.07699)
 
