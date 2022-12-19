@@ -4,7 +4,7 @@ layout: default
 # About Me
 📖 I am a third-year Ph.D. student at the Hong Kong University of Science and Technology (HKUST), advised by Prof. Lei Chen. I have previously interned at Microsoft Research Asia (in 2020) and Huawei Noah's Ark Lab (in 2022). Prior to HKUST, I received B.S. in mathematics from Sun Yat-sen University.
 
-💡 My research interests are in the area of natural language processing and self-supervised learning. Specifically, I focus on extracting effective supervision signals from naturally occurring data sources, and applying them to tasks with real-world potential. I strive to create ~~SOTA~~ simple and effective solutions and aim to produce ~~publishable~~ memorable research
+💡 My research interests are in the area of natural language processing and self-supervised learning. Specifically, I focus on extracting effective supervision signals from naturally occurring data sources, and applying them to tasks with real-world potential. I aim to delivery ~~SOTA~~ simple and effective solutions and ~~publishable~~ practical research.
 
 
 📭 If you have any questions to discuss or interests in collaboration, please feel free to reach out!
