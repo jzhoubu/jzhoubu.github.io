@@ -56,15 +56,33 @@ layout: default
   <tbody><tr>
     <td width="80%"> 
         Dec. 2019 - Jun. 2020 <br>
-        Research Intern, Microsoft Research Asia (MSRA), Beijing <br>
-        Pre-trained Language Models </td>
+        Microsoft Research Asia (MSRA), Machine Learning Group, Beijing <br>
+        Research Intern <br>
+        Pre-trained Language Models / GPT2 </td>
     <td width="20%"> <img src="images/ms.png" height=60px style="display: block; margin-left: auto; margin-right: auto;"> </td>
   </tr> 
   <tr>
     <td width="80%"> 
-        Feb. 2021 - Aug. 2022 <br>
-        Research Intern, Huawei 2012 Lab, Hong Kong <br>
-        Open-domain Question Answering / Multimodal Representation Learning </td>
+        Feb. 2021 - Aug. 2021 <br>
+        Huawei 2012 Lab, Hong Kong <br>
+        Research Intern <br>
+        Open-domain Question Answering / Pre-training Retrieval </td>
+    <td width="20%"> <img src="images/huawei.png" height=60px style="display: block; margin-left: auto; margin-right: auto;"> </td>
+  </tr>
+  <tr>
+    <td width="80%"> 
+        Jan. 2022 - Nov. 2022 <br>
+        Huawei 2012 Lab, Shenzhen <br>
+        Research Intern <br>
+        Multi-modal / Explainable Retrieval </td>
+    <td width="20%"> <img src="images/huawei.png" height=60px style="display: block; margin-left: auto; margin-right: auto;"> </td>
+  </tr>
+  <tr>
+    <td width="80%"> 
+        Jan. 2023 - Nov. 2023 <br>
+        Microsoft Research Asia, Natural Language Computing Group, Beijing <br>
+        Research Intern <br>
+        Retrieval-argumented Large Language Models </td>
     <td width="20%"> <img src="images/huawei.png" height=60px style="display: block; margin-left: auto; margin-right: auto;"> </td>
   </tr>
 </tbody></table>
