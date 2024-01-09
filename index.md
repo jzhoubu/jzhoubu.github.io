@@ -1,13 +1,17 @@
 ---
 layout: default
 ---
-# About Me
-📖 I am a Ph.D. student at the Hong Kong University of Science and Technology (HKUST). I have previously interned at Microsoft Research Asia (in 2020, 2023) and Huawei Noah's Ark Lab (in 2022). Prior to HKUST, I received B.S. in mathematics from Sun Yat-sen University.
+# Hello!
+🎓 I am a Ph.D. candidate at the Hong Kong University of Science and Technology (HKUST). I have previously interned at Microsoft Research Asia (in 2020, 2023) and Noah's Ark Lab (in 2022). Prior to HKUST, I received B.S. in mathematics from Sun Yat-sen University.
 
-💡 My research interests lie in the area of **self-supervised learning** and **information retrieval**. Specifically, I focus on extracting effective supervision signals from naturally occurring data sources, and applying them to tasks with real-world potential. I aim to delivery ~~SOTA~~ simple and effective solutions and ~~publishable~~ practical research.
+💡 My primary research lie in the area of self-supervised learning and information retrieval. Here's a closer look at my work:
+
+- **Self-supervised Learning (SSL)**: My exploration in SSL revolves around harnessing vast, naturally occurring real-world observations as supervision signals for machine learning. I've utilized web hyperlinks for pre-training retrieval systems ([HLP](https://arxiv.org/abs/2203.06942)) and exploited the linguistic equivalent of multimodal data for disentangled embeddings and explainable retrieval systems ([VDR](https://openreview.net/forum?id=ZlQRiFmq7Y)).
 
 
-📭 If you have any questions to discuss or interests in collaboration, please feel free to reach out!
+- **Inforamtion Retrieval (IR)**: 
+I am expertised at multiple aspect of IR, 
+
 
 
 # Education
@@ -72,14 +76,14 @@ layout: default
     <td width="80%"> 
         Feb. 2021 - Aug. 2021 <br>
         Huawei, Noah’s Ark Lab, Hong Kong <br>
-        Research Intern: <b> Open-domain Question Answering / Pre-training Retrieval </b> </td>
+        Research Intern: Open-domain Question Answering / Pre-training Retrieval </td>
     <td width="20%"> <img src="images/huawei.png" height=60px style="display: block; margin-left: auto; margin-right: auto;"> </td>
   </tr>
   <tr>
     <td width="80%"> 
         Dec. 2019 - Jun. 2020 <br>
         Microsoft Research Asia (MSRA), Machine Learning Group, Beijing <br>
-        Research Intern: <b> Pre-trained Language Models / GPT2 </b> </td>
+        Research Intern: Pre-trained Language Models / GPT2 </td>
     <td width="20%"> <img src="images/ms.png" height=60px style="display: block; margin-left: auto; margin-right: auto;"> </td>
   </tr> 
 
