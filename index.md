@@ -31,7 +31,7 @@ My expertise in IR spans several domains, including pre-training, dense and spar
     <td width="70%"> 
         Sept. 2018 - Jun. 2019 <br>
         Hong Kong University of Science and Technology, Hong Kong <br>
-        M.S. in Big Data Technology, Computer Science and Engineering Department</td>
+        M.S. in Big Data Technology</td>
     <td width="20%"> 
         <img src="images/hkust.png" height=60px style="display: block; margin-left: auto; margin-right: auto;"> 
     </td>
