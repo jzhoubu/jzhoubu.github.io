@@ -5,10 +5,9 @@ layout: default
 🎓 I am a Ph.D. candidate at the Hong Kong University of Science and Technology (HKUST). I have previously interned at Microsoft Research Asia (in 2020, 2023) and Noah's Ark Lab (in 2022). Prior to HKUST, I received B.S. in mathematics from Sun Yat-sen University.
 
 💡 My primary research lie in the area of self-supervised learning and information retrieval. Here's a closer look at my work:
-- **Self-supervised Learning (SSL)**: My exploration in SSL revolves around harnessing vast, naturally occurring real-world observations as supervision signals for machine learning. I've utilized web hyperlinks for pre-training retrieval systems ([HLP](https://arxiv.org/abs/2203.06942)) and exploited the linguistic equivalent of multimodal data for disentangled embeddings and explainable retrieval systems ([VDR](https://openreview.net/forum?id=ZlQRiFmq7Y)).
+- **Self-supervised Learning (SSL)**: My exploration in SSL revolves around harnessing vast, naturally occurring real-world observations as supervision signals for machine learning. I've utilized web hyperlinks for pre-training retrieval systems ([HLP[1]](https://arxiv.org/abs/2203.06942)) and exploited the linguistic equivalent of multimodal data for disentangled embeddings and explainable retrieval systems ([VDR[2]](https://openreview.net/forum?id=ZlQRiFmq7Y)).
 - **Inforamtion Retrieval (IR)**: 
-I am expertised at multiple aspect of IR, 
-
+My expertise in IR spans several domains, including pre-training, dense and sparse retrieval architectures, multimodal retrieval, explainable retrieval, as well as the development of advanced indexing techniques and efficient retrieval methods. 
 
 
 # Education
