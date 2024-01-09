@@ -2,7 +2,7 @@
 layout: default
 ---
 # About Me
-📖 I am a Ph.D. student at the Hong Kong University of Science and Technology (HKUST), advised by Prof. Lei Chen. I have previously interned at Microsoft Research Asia (in 2020, 2023) and Huawei Noah's Ark Lab (in 2022). Prior to HKUST, I received B.S. in mathematics from Sun Yat-sen University.
+📖 I am a Ph.D. student at the Hong Kong University of Science and Technology (HKUST). I have previously interned at Microsoft Research Asia (in 2020, 2023) and Huawei Noah's Ark Lab (in 2022). Prior to HKUST, I received B.S. in mathematics from Sun Yat-sen University.
 
 💡 My research interests are in the area of natural language processing and self-supervised learning. Specifically, I focus on extracting effective supervision signals from naturally occurring data sources, and applying them to tasks with real-world potential. I aim to delivery ~~SOTA~~ simple and effective solutions and ~~publishable~~ practical research.
 
@@ -58,7 +58,7 @@ layout: default
     <td width="80%"> 
         Jan. 2023 - Nov. 2023 <br>
         Microsoft Research Asia, Natural Language Computing Group, Beijing <br>
-        Research Intern: <b> Retrieval-argumented Large Language Models <\b> </td>
+        Research Intern: <b> Retrieval-argumented Large Language Models </b> </td>
     <td width="20%"> <img src="images/ms.png" height=60px style="display: block; margin-left: auto; margin-right: auto;"> </td>
   </tr>
   <tr>
