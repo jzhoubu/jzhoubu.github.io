@@ -7,7 +7,7 @@ layout: default
 💡 My primary research lie in the area of self-supervised learning and information retrieval. Here's a closer look at my work:
 - **Self-supervised Learning (SSL)**: My exploration in SSL revolves around harnessing vast, naturally occurring real-world observations as supervision signals for machine learning. I've utilized web hyperlinks for pre-training retrieval systems ([HLP](https://arxiv.org/abs/2203.06942)) and exploited the linguistic equivalent of multimodal data for disentangled embeddings and explainable retrieval systems ([VDR](https://openreview.net/forum?id=ZlQRiFmq7Y)).
 - **Inforamtion Retrieval (IR)**: 
-My expertise in IR spans several domains, including pre-training, dense and sparse retrieval architectures, multimodal retrieval, explainable retrieval, as well as the development of advanced indexing techniques and efficient retrieval methods. add
+My expertise in IR spans several domains, including pre-training, dense and sparse retrieval architectures, multimodal retrieval, explainable retrieval, as well as the development of advanced indexing techniques and efficient retrieval methods. 
 
 
 # Education
