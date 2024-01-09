@@ -10,6 +10,8 @@ layout: default
 My expertise in IR spans several domains, including pre-training, dense and sparse retrieval architectures, multimodal retrieval, explainable retrieval, as well as the development of advanced indexing techniques and efficient retrieval methods. 
 
 
+
+
 # Education
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="0" frame=void rules=none>
   <tbody>
