@@ -5,7 +5,8 @@ layout: default
 🎓 I am a Ph.D. candidate at the Hong Kong University of Science and Technology (HKUST). I have previously interned at Microsoft Research Asia (in 2020, 2023) and Noah's Ark Lab (in 2022). Prior to HKUST, I received B.S. in mathematics from Sun Yat-sen University.
 
 💡 My primary research interests lie in:
-- **Self-supervised Learning 📶 in Machine Learning 🤖 (Flywheel Effect ⚙️ in Product Design 📱)**<br>
+- **Self-supervised Learning 📶 in Machine Learning 🤖**<br>
+  **(Flywheel Effect ⚙️ in Product Design 📱)**<br>
   Automatically and continuously amplify the effectiveness of machine learning (product evolution) by leveraging extensive, naturally occurring real-world observations (user behavior and feedback) as supervision signals.
   Specifically, I've utilized web hyperlinks to supervise retrieval systems pre-training ([HLP](https://arxiv.org/abs/2203.06942)) and natural language tokenization to supervise disentangled representation learning for multimodal data which lead to explainable retrieval systems ([VDR](https://openreview.net/forum?id=ZlQRiFmq7Y)).
 
