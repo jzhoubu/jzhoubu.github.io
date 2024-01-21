@@ -4,14 +4,17 @@ layout: default
 # Hello!
 🎓 I am a Ph.D. candidate at the Hong Kong University of Science and Technology (HKUST). I have previously interned at Microsoft Research Asia (in 2020, 2023) and Noah's Ark Lab (in 2022). Prior to HKUST, I received B.S. in mathematics from Sun Yat-sen University.
 
-💡 My primary research lie in the area of self-supervised learning and information retrieval. Here's a closer look at my work:
-- **Self-supervised Learning (SSL) 📶**: Harnessing vast, naturally occurring real-world observations 🌍 as supervision signals for machine learning 🤖. Also known as **Flywheel Effect ⚙️** application design, leveraging extensive user behaviors and feedback for applications evolution.
+💡 My primary research interests lie in:
+- **Self-supervised Learning 📶 in Machine Learning 🤖**
+- **Flywheel Effect ⚙️ in application design 📱**
 
-I've utilized web hyperlinks for pre-training retrieval systems ([HLP](https://arxiv.org/abs/2203.06942)) and exploited the linguistic equivalent of multimodal data for disentangled embeddings and explainable retrieval systems ([VDR](https://openreview.net/forum?id=ZlQRiFmq7Y)).
+  Amplifying the effectiveness of machine learning and product evolution by leveraging extensive, naturally occurring real-world observations as self-supervision signals.
+  Specifically, I've utilized web hyperlinks to supervise retrieval systems pre-training ([HLP](https://arxiv.org/abs/2203.06942)) and natural language tokenization to supervise disentangled representation learning for multimodal data which lead to explainable retrieval systems ([VDR](https://openreview.net/forum?id=ZlQRiFmq7Y)).
 
 
-- **Inforamtion Retrieval (IR)**: 
-My expertise in IR spans several domains, including pre-training, dense and sparse retrieval architectures, multimodal retrieval, explainable retrieval, as well as the development of advanced indexing techniques and efficient retrieval methods. 
+- **Inforamtion Retrieval (IR) System 🔎**: 
+  
+  My expertise in IR spans several domains, including pre-training, dense and sparse retrieval architectures, multimodal retrieval, explainable retrieval, as well as the development of advanced indexing techniques and efficient retrieval methods. 
 
 
 
