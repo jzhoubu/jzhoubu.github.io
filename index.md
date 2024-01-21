@@ -7,7 +7,7 @@ layout: default
 💡 My primary research interests lie in:
 - **Self-supervised Learning 📶 in Machine Learning 🤖**<br>
   **(Flywheel Effect ⚙️ in Product Design 📱)**<br>
-  Amplify the effectiveness of machine learning (product evolution) by leveraging extensive, naturally occurring real-world observations (user behavior and feedback) as supervision signals, automatically, continuously, elegantly.<br>
+  Amplify the effectiveness of machine learning (product evolution) by leveraging extensive, naturally occurring real-world observations (user behavior and feedback) as supervision signals automatically, continuously, elegantly.<br>
   Specifically, I've utilized web hyperlinks to supervise retrieval systems pre-training ([HLP](https://arxiv.org/abs/2203.06942)) and natural language tokenization to supervise disentangled representation learning for multimodal data which lead to explainable retrieval systems ([VDR](https://openreview.net/forum?id=ZlQRiFmq7Y)).
 
 
