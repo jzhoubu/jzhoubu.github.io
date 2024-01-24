@@ -93,7 +93,7 @@ layout: default
 
 # Publications
 **[Hyperlink-induced Pre-training for Passage Retrieval in Open-domain Question Answering](https://arxiv.org/abs/2203.06942)**<br>
-**Jiawei Zhou**, Xiaoguang Li, Lifeng Shang, Lan Luo, Ke Zhan, Enrui Hu, Xinyu Zhang, Hao Jiang, Zhao Cao, Fan Yu, Xin Jiang, Qun Liu, Lei Chen. ACL, 2022. <br>
+**Jiawei Zhou**, Xiaoguang Li, Lan Luo, Ke Zhan, Enrui Hu, Xin Jiang, Lei Chen, et al. ACL, 2022. <br>
 [<img src="https://img.shields.io/badge/Paper-blue"  alt="1">](https://arxiv.org/abs/2203.06942)
 [<img src="https://img.shields.io/badge/Review-orange"  alt="1">](external/HLP.html)
 [<img src="https://img.shields.io/badge/Slide-red"  alt="1">](https://github.com/jzhoubu/HLP)
