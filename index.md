@@ -4,12 +4,13 @@ layout: default
 # Hello!
 🎓 I am a Ph.D. candidate at the Hong Kong University of Science and Technology (HKUST). I have previously interned at Microsoft Research Asia (in 2020, 2023) and Noah's Ark Lab (in 2022). Prior to HKUST, I received B.S. in mathematics from Sun Yat-sen University.
 
+
 💡 My primary research interests lie in:
-- **Self-supervised Learning** <br>
+- 🤖**Self-supervised Learning** <br>
   Amplify the effectiveness of machine learning (product evolution) by leveraging extensive, naturally occurring real-world observations (user behavior and feedback) as supervision signals automatically, continuously, elegantly.<br>
   Specifically, I've utilized web hyperlinks to supervise retrieval systems pre-training ([HLP](https://arxiv.org/abs/2203.06942)) and natural language tokenization to supervise disentangled representation learning for multimodal data which lead to explainable retrieval systems ([VDR](https://openreview.net/forum?id=ZlQRiFmq7Y)).
 
-- **Inforamtion Retrieval System**<br>
+- 🔎**Inforamtion Retrieval System**<br>
   My expertise in IR spans several domains, including pre-training, dense and sparse retrieval architectures, multimodal retrieval, explainable retrieval, as well as the development of advanced indexing techniques and efficient retrieval methods. 
 
 
@@ -90,15 +91,16 @@ layout: default
 
 
 
-
 # Publications
 **[Hyperlink-induced Pre-training for Passage Retrieval in Open-domain Question Answering](https://arxiv.org/abs/2203.06942)**<br>
 **Jiawei Zhou**, Xiaoguang Li, Lifeng Shang, Lan Luo, Ke Zhan, Enrui Hu, Xinyu Zhang, Hao Jiang, Zhao Cao, Fan Yu, Xin Jiang, Qun Liu, Lei Chen. ACL, 2022. <br>
-[<img src="https://img.shields.io/badge/-paper-brightgreen??style=flat-square"  alt="1">](https://arxiv.org/abs/2203.06942)
-[<img src="https://img.shields.io/badge/-slide-red??style=flat-square"  alt="1">](https://github.com/jzhoubu/HLP)
-[<img src="https://img.shields.io/badge/-code-blue??style=flat-square"  alt="1">](https://github.com/jzhoubu/HLP)
+[<img src="https://img.shields.io/badge/Paper-blue"  alt="1">](https://arxiv.org/abs/2203.06942)
+[<img src="https://img.shields.io/badge/Review-orange"  alt="1">](external/HLP.html)
+[<img src="https://img.shields.io/badge/Slide-red"  alt="1">](https://github.com/jzhoubu/HLP)
+[<img src="https://img.shields.io/badge/Code-brightgreen"  alt="1">](https://github.com/jzhoubu/HLP)
 
 **[Retrieval-based Disentangled Representation Learning with Natural Language Supervision](https://openreview.net/forum?id=ZlQRiFmq7Y)**<br>
-**Jiawei Zhou**, Xiaoguang Li, Lifeng Shang, Xin Jiang, Qun Liu, Lei Chen. Preprint. <br>
-[<img src="https://img.shields.io/badge/-paper-brightgreen??style=flat-square"  alt="1">](https://arxiv.org/abs/2212.07699)
+**Jiawei Zhou**, Xiaoguang Li, Lifeng Shang, Xin Jiang, Qun Liu, Lei Chen. ICLR, 2024. <br>
+[<img src="https://img.shields.io/badge/Paper-brightgreen"  alt="1">](https://arxiv.org/abs/2212.07699)
+[<img src="https://img.shields.io/badge/OpenReview-orange"  alt="1">](https://openreview.net/forum?id=ZlQRiFmq7Y)
 
