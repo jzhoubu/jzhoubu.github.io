@@ -2,7 +2,7 @@
 layout: default
 ---
 # Hello!
-🎓 I am a Ph.D. candidate at the Hong Kong University of Science and Technology (HKUST). I have previously interned at Microsoft Research Asia (in 2020, 2023) and Noah's Ark Lab (in 2022). Prior to HKUST, I received B.S. in mathematics from Sun Yat-sen University.
+🎓 I am a Ph.D. candidate at the Hong Kong University of Science and Technology (HKUST). I have previously interned at Microsoft Research Asia (in 2020, 2023) and Noah's Ark Lab (in 2022). Prior to HKUST, I received B.S. in mathematics from Sun Yat-sen University (SYSU).
 
 
 💡 My primary research interests lie in:
