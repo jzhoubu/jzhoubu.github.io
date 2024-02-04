@@ -97,7 +97,7 @@ layout: default
 ACL 2022. Rating:3.5/4/4/4. <br>
 [<img src="https://img.shields.io/badge/Paper-blue"  alt="1">](https://arxiv.org/abs/2203.06942)
 [<img src="https://img.shields.io/badge/Review-orange"  alt="1">](external/HLP.html)
-[<img src="https://img.shields.io/badge/Slide-red"  alt="1">](https://github.com/jzhoubu/HLP)
+[<img src="https://img.shields.io/badge/Slide-red"  alt="1">](https://github.com/jzhoubu/HLP/blob/master/slides/acl2022_slide.pdf)
 [<img src="https://img.shields.io/badge/Code-brightgreen"  alt="1">](https://github.com/jzhoubu/HLP)
 
 **[Retrieval-based Disentangled Representation Learning with Natural Language Supervision](https://openreview.net/forum?id=ZlQRiFmq7Y)**<br>
