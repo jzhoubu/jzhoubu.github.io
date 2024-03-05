@@ -105,4 +105,5 @@ ACL 2022. Rating:3.5/4/4/4. <br>
 ICLR 2024. Rating:8/6/6. Spotlight (5%) 🎉. <br>
 [<img src="https://img.shields.io/badge/Paper-blue"  alt="1">](https://arxiv.org/abs/2212.07699)
 [<img src="https://img.shields.io/badge/OpenReview-orange"  alt="1">](https://openreview.net/forum?id=ZlQRiFmq7Y)
-
+[<img src="https://img.shields.io/badge/Project-red"  alt="1">](https://jzhoubu.github.io/vdr.github.io/)
+[<img src="https://img.shields.io/badge/Code-brightgreen"  alt="1">](https://github.com/jzhoubu/VDR)
