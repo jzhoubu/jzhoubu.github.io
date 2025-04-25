@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I’m Jiawei Zhou, a Ph.D. candidate in the Hong Kong University of Science and Technology (HKUST). Prior to HKUST, I earned my B.S. in Mathematics from Sun Yat-sen University (SYSU). During my Ph.D., I have interned at Microsoft Research Asia (MSRA) and Huawai Noah’s Ark Lab. 
+Hi, I’m Jiawei Zhou, a Ph.D. candidate at the Hong Kong University of Science and Technology (HKUST). Before joining HKUST, I received my B.S. in Mathematics from Sun Yat-sen University (SYSU). During my Ph.D., I’ve interned at Microsoft Research Asia (MSRA) and Huawei Noah’s Ark Lab.
 
-My research focus on information retrieval (IR), and retrieval-augmented generation(RAG). My work involves co-training approaches for IR and LLMs and developing end-to-end methods for capturing real-world relevance across diverse tasks and LLM configurations within the RAG framework.
+My research lies at the intersection of Information Retrieval (IR) and Retrieval-Augmented Generation (RAG), with a focus on:
+- Co-training techniques for integrating IR and LLMs
+- End-to-end methods for optimizing real-world RAG applications
