@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jiawei Zhou / Site Title"
+title                    : "Jiawei Zhou"
 title_separator          : "-"
 name                     : &name "Jiawei Zhou"
 description              : &description "personal description"
@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo.jpg"
+  avatar           : "/images/photo.jpg"
   name             : "Jiawei ZHOU"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Research on IR, LLM, RAG"
