@@ -24,7 +24,7 @@ author:
   avatar           : "photo.png"
   name             : "Jiawei ZHOU"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Research on IR, LLM, RAG"
+  bio              : "IR, LLM, RAG"
   location         : "Hong Kong"
   employer         : "HKUST"
   uri              : # URL
@@ -201,16 +201,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: false
+    output:
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: false
+    output:
     permalink: /:collection/:path/
   talks:
-    output: false
+    output:
     permalink: /:collection/:path/
 
 
